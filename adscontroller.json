@@ -9,12 +9,9 @@
 
         "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
         "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
-        "NativeFacebook": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
-        "NativeFacebookSingle": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
-		
-        "ImageBanner": false,
-        "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
-        "ImageBannerURL" : "https://www.google.com"
+        		
+        "Interstitial": false,
+       
 		
       }
 
